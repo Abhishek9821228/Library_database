@@ -1,0 +1,1 @@
+This program is used to create a library management system that is capable of issuing books and letting consumers check different books and their titles categorically. It keeps track of all the details about the books in the library, their price, status, and the total number of books available in the Library.
